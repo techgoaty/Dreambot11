@@ -1,11 +1,11 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +2349124219705
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//Instagram: tevhgoaty
+//Telegram: t.me/this user is dead
+//GitHub: @techgoaty
+//WhatsApp: +2348056329505
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgoat
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -19,19 +19,19 @@ global.socialm = "GitHub: techgoaty" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'aռօռʏʍɨx tɛċɦɢօat ' //ur bot name
-global.ownernumber = '2349124219705' //ur owner number
-global.ownername = 'ANONYMOUS🎭' //ur owner name
+global.botname = 'ANONYMIX BOTS inc™ ' //ur bot name
+global.ownernumber = '2348056329505' //ur owner number
+global.ownername = 'KILLER ANONYMOUS🎭' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp"
+global.wagc = "https://chat.whatsapp.com/KE3ChbgYQaj4J7jrM6dm2B"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "2349124219705@s.whatsapp.net"
+global.author = "KILLER ANONYMOUS ♥️"
+global.creator = "2348056329505@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348079668969"] // Premium User
+global.premium = ["2348056329505"] // Premium User
 global.hituet = 0
 
 //bot sett
