@@ -20,15 +20,15 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'ANONYMIX BOTS inc™ ' //ur bot name
-global.ownernumber = '2348056329505' //ur owner number
-global.ownername = 'KILLER ANONYMOUS🎭' //ur owner name
+global.ownernumber = '2349030659945' //ur owner number
+global.ownername = 'VIRGIN BOY🎭' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/KE3ChbgYQaj4J7jrM6dm2B"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "Anonymix Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "KILLER ANONYMOUS ♥️"
+global.author = "ANONYMOUS ♥️"
 global.creator = "2348056329505@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["2348056329505"] // Premium User
@@ -50,7 +50,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: 'Anonymous did this♥️!'
+    success: 'virginboy did this♥️!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
