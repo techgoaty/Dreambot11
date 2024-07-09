@@ -1,10 +1,10 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
-//Instagram: tevhgoaty
+//Instagram: techgoaty
 //Telegram: t.me/this user is dead
 //GitHub: @techgoaty
-//WhatsApp: +2348056329505
+//WhatsApp: +2348118820641
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgoat
 
 const fs = require('fs')
@@ -20,8 +20,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'ANONYMIX BOTS inc™ ' //ur bot name
-global.ownernumber = '2349030659945' //ur owner number
-global.ownername = 'VIRGIN BOY🎭' //ur owner name
+global.ownernumber = '2348118820641' //ur owner number
+global.ownername = 'killer Anonymous🎭' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/KE3ChbgYQaj4J7jrM6dm2B"
 global.themeemoji = '🪀'
@@ -29,9 +29,9 @@ global.wm = "Anonymix Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "ANONYMOUS ♥️"
-global.creator = "2348056329505@s.whatsapp.net"
+global.creator = "2348118820641@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348056329505"] // Premium User
+global.premium = ["2348118820641"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -50,7 +50,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: 'virginboy did this♥️!'
+    success: 'killer Anonymous did this♥️!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
