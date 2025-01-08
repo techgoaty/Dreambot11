@@ -20,7 +20,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'ANONYMIX BOTS inc™ ' //ur bot name
-global.ownernumber = '2348118820641' //ur owner number
+global.ownernumber = '2349012044402' //ur owner number
 global.ownername = 'killer Anonymous🎭' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/KE3ChbgYQaj4J7jrM6dm2B"
@@ -29,7 +29,7 @@ global.wm = "Anonymix Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "ANONYMOUS ♥️"
-global.creator = "2348118820641@s.whatsapp.net"
+global.creator = "2349012044402@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["2348118820641"] // Premium User
 global.hituet = 0
